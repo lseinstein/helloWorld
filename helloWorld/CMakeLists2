@@ -1,0 +1,9 @@
+project(HELLO)
+set(SRC_LIST main.c)
+set(LIB_SRC hello.c)
+add_library(wtfhello ${LIB_SRC})
+add_executable(hello ${SRC_LIST})
+
+
+target_link_libraries(hello wtfhello)
+set_target_properties(wtfhello PROPERTIES OUTPUT_NAME "hihello")

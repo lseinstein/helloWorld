@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhihello.a  CMakeFiles/wtfhello.dir/hello.c.o
+/usr/bin/ranlib libhihello.a

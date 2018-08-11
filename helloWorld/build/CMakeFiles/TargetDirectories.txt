@@ -1,0 +1,8 @@
+/home/robot/LS/experi/helloWorld/build/CMakeFiles/edit_cache.dir
+/home/robot/LS/experi/helloWorld/build/CMakeFiles/rebuild_cache.dir
+/home/robot/LS/experi/helloWorld/build/src/CMakeFiles/edit_cache.dir
+/home/robot/LS/experi/helloWorld/build/src/CMakeFiles/rebuild_cache.dir
+/home/robot/LS/experi/helloWorld/build/src/CMakeFiles/hello.dir
+/home/robot/LS/experi/helloWorld/build/lib/CMakeFiles/edit_cache.dir
+/home/robot/LS/experi/helloWorld/build/lib/CMakeFiles/rebuild_cache.dir
+/home/robot/LS/experi/helloWorld/build/lib/CMakeFiles/wtfhello.dir

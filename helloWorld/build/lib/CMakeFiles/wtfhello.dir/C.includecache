@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/robot/LS/experi/helloWorld/lib/hello.c
+stdio.h
+-
+hello.h
+/home/robot/LS/experi/helloWorld/lib/hello.h
+
+/home/robot/LS/experi/helloWorld/lib/hello.h
+
