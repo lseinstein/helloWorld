@@ -6,5 +6,5 @@ C_FLAGS =
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/robot/LS/experi/helloWorld/wtfhello 
+C_INCLUDES = 
 

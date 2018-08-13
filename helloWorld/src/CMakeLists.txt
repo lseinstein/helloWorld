@@ -1,4 +1,5 @@
-include_directories(${PROJECT_SOURCE_DIR}/wtfhello)
+include_directories(${PROJECT_SOURCE_DIR}/lib)
 set(SRC_LIST main.c)
 add_executable(hello ${SRC_LIST})
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
 target_link_libraries(hello wtfhello)
